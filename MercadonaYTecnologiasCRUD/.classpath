@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/DriversJava/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/zxing qrcode 3.4.0/core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/zxing qrcode 3.4.0/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/zxing qrcode 3.4.0/javase-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/zxing qrcode 3.4.0/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/javacsv.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/pdfbox/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/pdfbox/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/email-util-1.0.7-RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/DriversJava/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

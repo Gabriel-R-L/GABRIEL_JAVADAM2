@@ -1,0 +1,32 @@
+TODO:
+
+=================================
+
+HECHO:
+## guardar los QR en base al día en el que se generan
+## enviar mail filtrando por fecha, y que muestre las disponibles
+## Conectar grafico con BD y buscar por fecha y que haga get del año y fecha
+## Ver en el grafico el mes
+## En el xml dar atributos de id y fecha, y dentro de las etiquetas los campos normales
+## Comprobación de que si existen los datos en el xml no inserte dichos datos -> lo hace solo :o
+## Fecha en clase pojo Supermercado localdate
+## Si no encuentra fecha QR, que no lo genere
+## Al buscar en la base de datos, que si tengo un campo Float, guardar en getFloat, getInt, .....
+## Hacer métodos static (algunos controladores)
+## Crear metodos privados si no se usan fuera de la clase
+## Mostrar fechas disponibles de la bd para generar gráfico
+## Crear archivos temporales en una carpeta temp. Si la carpeta temp no existe, la va a crear
+## Buscar en BD Supermercado con get y set (clase POJO) en lugar de usar datos a capón
+## Si meto muchos datos en el csv y genero un pdf, en algún punto colapsará y seguirán bajando
+pero no se verán. Arreglar haciendo que si no hay sitio, haga una nueva página
+
+## Añadir proveedores de correo para enviar mail
+(https://blog.hubspot.es/marketing/proveedores-correo-electronico)
+## Simplificar la clase menu
+## Hacer PDF para cada mes (enero.pdf, ...)
+## Guardar en pdf los registros, siendo cada hoja un mes. Que indique al inicio de la hoja el mes
+## Al generar PDF que no de error si hay registros impares en la BD
+## Control mejorado de errores para que no muestre el error en sí, si no un mensaje más amigable para
+el usuario
+## Añadir más try catch
+## Comprobar que todo funciona correctamente
