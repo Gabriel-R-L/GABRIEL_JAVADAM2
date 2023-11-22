@@ -11,7 +11,7 @@ Generador de PDF, CSV, XML, CRUD de usuarios, envío de emails, generador de gr�
 
 2\. Instalar carpeta MercadonaYTecnologiasCRUD (Acceso)
 
-3\. <p style="color:'red'">**RECOMENDADO**</p>: Opcionalmente, puedes instalar el archivo **sql** y
+3\. <p style="color:red">**RECOMENDADO**</p>: Opcionalmente, puedes instalar el archivo **sql** y
 **csv**. Ambos archivos te dan modelos de prueba
 
 ## He descargado los archivos opcionales, ¿dónde los tengo que colocar?
